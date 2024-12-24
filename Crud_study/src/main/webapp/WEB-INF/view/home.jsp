@@ -5,6 +5,7 @@
 <head>
 <meta charset="UTF-8">
 <title>Crud테스트용</title>
+<link rel="stylesheet" type="text/css" href="../static/resources/css/home.css">
 </head>
 <body>
 	<div class="main">
